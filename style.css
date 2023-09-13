@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    background-color:rgb(245, 245, 212);
+    display: flex;
+    justify-content: center;
+    align-items: center;        
+}
+.container{
+    text-align: center;  
+}
+
+input,select,button{
+    width: 100%;
+    padding: .4rem;
+    margin: .3rem;
+}
+
